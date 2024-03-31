@@ -1,4 +1,4 @@
 n = Oly
 s = Lappo
-age = 22
-print(n, s, age)
+#age = 22
+print(n, s)
